@@ -1,6 +1,6 @@
 token= NTYzNzI0NTEwNDExNjIwMzUz.XKdfdg.1z8d4eud5tPPZV7q9tZe-GEj2Ms
 owner= 526947416658935810 
 prefix= 2
-game= 2help | war
-stayinchannel=false
-songinstatus=true
+game= 2help | War
+stayinchannel=true
+songinstatus=false
